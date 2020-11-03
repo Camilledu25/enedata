@@ -1,15 +1,9 @@
 Package: enedata
-Title: What the Package Does (One Line, Title Case)
+Title: Package
 Version: 0.0.0.9000
-Authors@R: 
-    person(given = "First",
-           family = "Last",
-           role = c("aut", "cre"),
-           email = "first.last@example.com",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to
-    pick a license
+Authors@R: Camille Giampiccolo (camille.giampiccolo@yahoo.fr)
+Description: Ce package permet de recuperer les données de consommation et production annuelles à différentes mailles géographiques en api par enedis
+License: GPL 3
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
